@@ -15,6 +15,21 @@ h3 {
 }
 
 li {
-     color: yellow;
-     background-color: black;
+     
+     background-color: grey;
+}
+
+.aik {
+    color: yellow;
+    background-color: black;
+}
+
+.liverpool {
+    color: white;
+    background-color: red;
+}
+
+#dresden {
+    color: black;
+    background-color: yellow;
 }
