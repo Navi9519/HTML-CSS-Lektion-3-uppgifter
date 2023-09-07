@@ -1,0 +1,20 @@
+h1 {
+color: white;
+background-color: black;
+}
+
+h2 {
+    color: grey;
+    background-color: darkblue;
+
+}
+
+h3 {
+      color: beige;
+      background-color: blueviolet;
+}
+
+li {
+     color: yellow;
+     background-color: black;
+}
